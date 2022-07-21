@@ -26,6 +26,7 @@ Collection of companies hiring for tech roles where there is a location within D
 
 Colleciton of useful places to find out more about Dundee
 
+* [Dev & Tech Scotland Slack Channel](http://links.devtech.scot/slack) - Slack channel for the technical community in Scotland
 * [Dundee.com](https://www.dundee.com)
 * [Visit Dundee](https://www.visitdundee.com)
 * [Dundee Culture](https://www.dundeeculture.com)
